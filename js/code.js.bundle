@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bundle minify="true" runOnBuild="true" output="code.js" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://vswebessentials.com/schemas/v1/bundle.xsd">
+  
+  <!-- Include all JS of your Scripts folder -->
+  <!-- <file>/Scripts/#.js</file> -->
+  
+  <!-- Template files -->
+  <file>/js/Data.js</file>
+  <file>/js/default.js</file>
+  <file>/js/Lists.js</file>
+  <file>/js/navigator.js</file>
+  
+  <!-- Include all JS files of your pages -->
+  <!-- <file>/js/pages/#.js</file> -->
+  <file>/js/pages/home.js</file>
+  <file>/js/pages/page.js</file>
+</bundle>

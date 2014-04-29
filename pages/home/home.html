@@ -1,0 +1,20 @@
+﻿<div class="page">
+    <header role="banner">
+        <h1 class="titlearea win-type-ellipsis">
+            <span class="pagetitle">Home</span>
+        </h1>
+    </header>
+
+    <div data-win-control="WinJS.UI.Hub">
+        <div data-win-control="WinJS.UI.HubSection" data-win-options="{header: 'list'}">
+            <div data-win-control="WinJS.UI.ListView" data-win-options="{
+            itemDataSource: Lists.ItemList.items.dataSource
+         }"></div>
+        </div>
+
+        <div data-win-control="WinJS.UI.HubSection" data-win-options="{header: 'paragraph'}">
+            <p>Home page</p>
+            <a class="navigator" data-page="/pages/page/page.html" href="#">Go to page</a>
+        </div>
+    </div>
+</div>

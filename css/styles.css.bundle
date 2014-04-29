@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bundle minify="true" runOnBuild="true" output="styles.css" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://vswebessentials.com/schemas/v1/bundle.xsd">
+  
+  <!-- Include all css of your project -->
+  <file>/css/default.css</file>
+  
+  <!-- Include all JS files of your pages -->
+  <!-- <file>/css/pages/#.css</file> -->
+  <file>/css/pages/home.css</file>
+  <file>/css/pages/page.css</file>
+</bundle>
