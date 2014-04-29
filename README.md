@@ -1,24 +1,8 @@
-Extraído del artículo http://blog.ckgrafico.com/aplicaciones-fluidas-en-windows-8-1-con-html5-y-javascript
-
-Después de probar muchas maneras de hacer aplicaciones para Windows 8 en HTML5 (Plantillas por defecto, solo con navigator.js, MV* como Backbone, mi propio MVR con WinjsMVR) con sus más y sus menos, con errores y cosas que salieron bastante bien.. creo que hace poco llegué al sistema que me gusta y considero a día de hoy el más útil para trabajar.
-
-## Los otros métodos
-
-**Plantillas por defecto **realmente no estoy seguro de tener una razón concreta pero nunca me convencieron, me parecían incómodas y no me gustaba como estaban estructuradas.
-
-**Solo navigator.js** demasiado simple cuando quieres hacer una app mínimamente compleja, sobretodo que tienes que hacer tu mismo todo lo que ya te viene hecho con los controles.
-
-**MV** Hasta hace poco para mi ha sido la solución más efectiva, pero al final las cosas que con WinJS son sencillas de hacer se me hacían complicadas.
-
-## Método actual
-
-Hace poco decidí volver a utilizar WinJS en su totalidad, por probar, y me acabó gustando mucho el resultado, las cosas que antes se me hacían complicadas_ (cosas típicas en las apps de Windows 8)_ ahora el propio control ya las tenía. No me encanta la estructura que se da por hecho para este tipo de apps, pero la he podido ir moldeando hasta tener algo que me convence bastante _(aunque conociéndome seguro que sigo tocando un poco por ahí y un poco por allá)._
-
-Lo he juntado todo en una plantilla gratuita a la que he llamado [Fluid WinJS Template ](http://visualstudiogallery.msdn.microsoft.com/88008001-cb17-4245-9486-2d210546c94e "fluis winjs") que os podéis descargar y que seguramente iré modificando a medida que se me ocurra y que he puesto en [GitHub ](https://github.com/CKGrafico/WinJS-Fluid-Template "github winjs fluid")por si alguien tiene sugerencias y/o ideas
-
 ## Fluid WinJS
 
-A día de hoy así es como lo he estructurado _(depende cuando leas esto quizá se ha modificado alguna cosa)._
+Hace poco decidí volver a utilizar WinJS en su totalidad, por probar, y me acabó gustando mucho el resultado, las cosas que antes se me hacían complicadas_ (cosas típicas en las apps de Windows 8)_ ahora el propio control ya las tenía. No me encanta la estructura que se da por hecho para este tipo de apps, pero la he podido ir moldeando hasta tener algo que me convence bastante
+
+Lo he juntado todo en una plantilla gratuita a la que he llamado [Fluid WinJS Template ](http://visualstudiogallery.msdn.microsoft.com/88008001-cb17-4245-9486-2d210546c94e "fluis winjs") que os podéis descargar y que seguramente iré modificando a medida que se me ocurra y que he puesto en [GitHub ](https://github.com/CKGrafico/WinJS-Fluid-Template "github winjs fluid")por si alguien tiene sugerencias y/o ideas
 
 **Estructura de archivos en debug**
 ```
