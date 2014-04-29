@@ -1,3 +1,4 @@
+Extraído del artículo http://blog.ckgrafico.com/aplicaciones-fluidas-en-windows-8-1-con-html5-y-javascript
 ## Fluid WinJS
 
 Hace poco decidí volver a utilizar WinJS en su totalidad, por probar, y me acabó gustando mucho el resultado, las cosas que antes se me hacían complicadas_ (cosas típicas en las apps de Windows 8)_ ahora el propio control ya las tenía. No me encanta la estructura que se da por hecho para este tipo de apps, pero la he podido ir moldeando hasta tener algo que me convence bastante
