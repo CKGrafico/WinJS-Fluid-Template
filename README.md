@@ -8,7 +8,7 @@ Después de probar muchas maneras de hacer aplicaciones para Windows 8 en HTML5 
 
 **Solo navigator.js** demasiado simple cuando quieres hacer una app mínimamente compleja, sobretodo que tienes que hacer tu mismo todo lo que ya te viene hecho con los controles.
 
-**MV*** Hasta hace poco para mi ha sido la solución más efectiva, pero al final las cosas que con WinJS son sencillas de hacer se me hacían complicadas.
+**MV** Hasta hace poco para mi ha sido la solución más efectiva, pero al final las cosas que con WinJS son sencillas de hacer se me hacían complicadas.
 
 ## Método actual
 
